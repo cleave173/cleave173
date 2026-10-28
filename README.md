@@ -21,15 +21,12 @@
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=BADF74" alt="React" />
 <img src="https://img.shields.io/badge/Next%2Ejs-0D1117?style=flat-square&logo=nextdotjs&logoColor=BADF74" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=BADF74" alt="TypeScript" />
-<img src="https://img.shields.io/badge/TanStack%20Query-0D1117?style=flat-square&logo=reactquery&logoColor=BADF74" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" />
 <br/>
 <img src="https://img.shields.io/badge/backend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="backend" />
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=BADF74" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=BADF74" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Node%2Ejs-0D1117?style=flat-square&logo=nodedotjs&logoColor=BADF74" alt="Node.js" />
 <img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=BADF74" alt="NestJS" />
-<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=BADF74" alt="SQLAlchemy" />
 <br/>
 <img src="https://img.shields.io/badge/mobile-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="mobile" />
 <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=BADF74" alt="Flutter" />
@@ -48,7 +45,6 @@
 <img src="https://img.shields.io/badge/Docker%20Compose-0D1117?style=flat-square&logo=docker&logoColor=BADF74" alt="Docker Compose" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=BADF74" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=BADF74" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=BADF74" alt="Linux" />
 
 </div>
 
