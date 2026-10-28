@@ -6,10 +6,10 @@
 
 <br/>
 
+<a href="https://aliasgo.vercel.app/"><img src="https://img.shields.io/badge/Alias-0D1117?style=flat-square&logo=vercel&logoColor=BADF74" alt="Alias" /></a>
 <a href="https://t.me/konung3"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=BADF74" alt="Telegram" /></a>
 <a href="mailto:olzhaskurmash667@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=BADF74" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/olzhas-kurmash-445a73387/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0JBREY3NCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-<a href="https://aliasgo.vercel.app/"><img src="https://img.shields.io/badge/Alias-0D1117?style=flat-square&logo=vercel&logoColor=BADF74" alt="Alias" /></a>
 
 </div>
 
@@ -18,65 +18,37 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/frontend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="frontend" />
-<br/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=BADF74" alt="React" />
 <img src="https://img.shields.io/badge/Next%2Ejs-0D1117?style=flat-square&logo=nextdotjs&logoColor=BADF74" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=BADF74" alt="TypeScript" />
 <img src="https://img.shields.io/badge/TanStack%20Query-0D1117?style=flat-square&logo=reactquery&logoColor=BADF74" alt="TanStack Query" />
 <img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square" alt="Zustand" />
 <br/>
-<img src="https://img.shields.io/badge/React%20Hook%20Form-0D1117?style=flat-square&logo=reacthookform&logoColor=BADF74" alt="React Hook Form" />
-<img src="https://img.shields.io/badge/Zod-0D1117?style=flat-square&logo=zod&logoColor=BADF74" alt="Zod" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=BADF74" alt="Tailwind CSS" />
-<br/><br/>
-
 <img src="https://img.shields.io/badge/backend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="backend" />
-<br/>
 <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=BADF74" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=BADF74" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Node%2Ejs-0D1117?style=flat-square&logo=nodedotjs&logoColor=BADF74" alt="Node.js" />
 <img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=BADF74" alt="NestJS" />
 <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=BADF74" alt="SQLAlchemy" />
 <br/>
-<img src="https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&logo=pydantic&logoColor=BADF74" alt="Pydantic" />
-<img src="https://img.shields.io/badge/Celery-0D1117?style=flat-square&logo=celery&logoColor=BADF74" alt="Celery" />
-<img src="https://img.shields.io/badge/REST-0D1117?style=flat-square" alt="REST" />
-<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=BADF74" alt="JWT" />
-<br/><br/>
-
 <img src="https://img.shields.io/badge/mobile-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="mobile" />
-<br/>
 <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=BADF74" alt="Flutter" />
 <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=BADF74" alt="Dart" />
 <img src="https://img.shields.io/badge/Riverpod-0D1117?style=flat-square" alt="Riverpod" />
 <img src="https://img.shields.io/badge/Dio-0D1117?style=flat-square" alt="Dio" />
 <img src="https://img.shields.io/badge/GoRouter-0D1117?style=flat-square" alt="GoRouter" />
-<br/><br/>
-
-<img src="https://img.shields.io/badge/databases-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="databases" />
 <br/>
+<img src="https://img.shields.io/badge/databases-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="databases" />
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=BADF74" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=BADF74" alt="Redis" />
 <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=BADF74" alt="SQLite" />
-<br/><br/>
-
-<img src="https://img.shields.io/badge/devops%20%26%20tools-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="devops &amp; tools" />
 <br/>
+<img src="https://img.shields.io/badge/devops%20%26%20tools-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="devops &amp; tools" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=BADF74" alt="Docker" />
 <img src="https://img.shields.io/badge/Docker%20Compose-0D1117?style=flat-square&logo=docker&logoColor=BADF74" alt="Docker Compose" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=BADF74" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=BADF74" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=BADF74" alt="Linux" />
-<br/>
-<img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=BADF74" alt="Nginx" />
-<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=BADF74" alt="Postman" />
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ai%20%26%20audio-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="ai &amp; audio" />
-<br/>
-<img src="https://img.shields.io/badge/Whisper-0D1117?style=flat-square" alt="Whisper" />
-<img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/FFmpeg-0D1117?style=flat-square&logo=ffmpeg&logoColor=BADF74" alt="FFmpeg" />
 
 </div>
 
