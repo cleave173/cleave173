@@ -2,72 +2,56 @@
 
 # Olzhas Kurmash
 
-<br/>
-
-### <span style="color:#22c55e">building **[Alias](https://aliasgo.vercel.app/)** — party word-guessing game</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=BADF74&center=true&vCenter=true&width=720&lines=full-stack+developer;building+Alias+%E2%80%94+party+word-guessing+game;Kazakhstan" alt="full-stack developer · building Alias · Kazakhstan" />
 
 <br/>
 
-<!-- Social / Contact Links -->
-<p align="center">
-  <a href="https://aliasgo.vercel.app/"><img src="https://img.shields.io/badge/▲_Alias-22c55e?style=flat&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/olzhas-kurmash-445a73387/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://t.me/konung3"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:olzhaskurmash667@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://aliasgo.vercel.app/"><img src="https://img.shields.io/badge/Alias-0D1117?style=flat-square&logo=vercel&logoColor=BADF74" alt="Alias" /></a>
+<a href="https://www.linkedin.com/in/olzhas-kurmash-445a73387/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0JBREY3NCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+<a href="https://t.me/konung3"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=BADF74" alt="Telegram" /></a>
+<a href="mailto:olzhaskurmash667@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=BADF74" alt="Email" /></a>
+
+</div>
 
 <br/>
 
-<!-- Tech Stack List -->
-<p align="center">
-  <span style="color:#22c55e">●</span> <b>frontend</b> &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <span style="color:#22c55e">●</span> <b>backend</b> &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/frontend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="frontend" />
+<img src="https://img.shields.io/badge/Next%2Ejs-0D1117?style=flat-square&logo=nextdotjs&logoColor=BADF74" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=BADF74" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=BADF74" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=BADF74" alt="Tailwind" />
+<br/>
+<img src="https://img.shields.io/badge/backend-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="backend" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=BADF74" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=BADF74" alt="Python" />
+<img src="https://img.shields.io/badge/Node%2Ejs-0D1117?style=flat-square&logo=nodedotjs&logoColor=BADF74" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=BADF74" alt="NestJS" />
+<br/>
+<img src="https://img.shields.io/badge/mobile-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="mobile" />
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=BADF74" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=BADF74" alt="Dart" />
+<br/>
+<img src="https://img.shields.io/badge/infra-0D1117?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNiIgZmlsbD0iI0JBREY3NCIvPjwvc3ZnPg%3D%3D" alt="infra" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=BADF74" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=BADF74" alt="Redis" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=BADF74" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=BADF74" alt="GitHub Actions" />
 
-<p align="center">
-  <span style="color:#22c55e">●</span> <b>mobile</b> &nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-</p>
+</div>
 
-<p align="center">
-  <span style="color:#22c55e">●</span> <b>infra</b> &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-</p>
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=cleave173&hide_border=true&background=0D1117&stroke=0D1117&ring=BADF74&fire=BADF74&currStreakLabel=BADF74&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280" alt="GitHub streak" />
 
 <br/><br/>
 
-<!-- GitHub Stats with Emerald Green Accent -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cleave173&show_icons=true&theme=emerald&hide_border=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Snake Contribution Grid Animation (Green Theme) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleave173/cleave173/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cleave173/cleave173/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/cleave173/cleave173/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cleave173/cleave173/output/contribution-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cleave173/cleave173/output/contribution-snake.svg" alt="Contribution graph" width="100%" />
 </picture>
 
 </div>
