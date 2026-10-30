@@ -2,12 +2,14 @@
 
 # Olzhas Kurmash
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=BADF74&center=true&vCenter=true&width=720&lines=full-stack+developer;building+Alias+%E2%80%94+party+word-guessing+game;Kazakhstan" alt="full-stack developer · building Alias · Kazakhstan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1000&color=BADF74&center=true&vCenter=true&width=720&lines=full-stack+developer;Astana%2C+Kazakhstan" alt="full-stack developer · Astana, Kazakhstan" />
 
 <br/>
 
-<a href="https://github.com/cleave173/alias-game"><img src="https://img.shields.io/badge/GitHub%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=BADF74" alt="GitHub Repo" /></a>
-<a href="https://aliasgo.vercel.app/"><img src="https://img.shields.io/badge/Play%20Alias%20%E2%86%92-BADF74?style=for-the-badge" alt="Play Alias →" /></a>
+<a href="https://aliasgo.vercel.app/"><img src="alias-logo.svg" alt="ALIAS. — Explain. Guess. Win." width="440" /></a>
+<br/>
+<a href="https://github.com/cleave173/alias-game"><img src="alias-repo.svg" alt="Alias — GitHub repository" width="214" /></a>&nbsp;
+<a href="https://aliasgo.vercel.app/"><img src="alias-play.svg" alt="Play Alias →" width="214" /></a>
 
 </div>
 
