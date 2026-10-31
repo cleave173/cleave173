@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://aliasgo.vercel.app/"><img src="alias-logo.svg" alt="ALIAS. — Explain. Guess. Win." width="440" /></a>
+<a href="https://aliasgo.vercel.app/"><img src="alias-logo.svg" alt="ALIAS. — Explain. Guess. Win." width="352" /></a>
 <br/>
-<a href="https://github.com/cleave173/alias-game"><img src="alias-repo.svg" alt="Alias — GitHub repository" width="214" /></a>&nbsp;
-<a href="https://aliasgo.vercel.app/"><img src="alias-play.svg" alt="Play Alias →" width="214" /></a>
+<a href="https://github.com/cleave173/alias-game"><img src="alias-repo.svg" alt="Alias — GitHub repository" width="170" /></a>&nbsp;
+<a href="https://aliasgo.vercel.app/"><img src="alias-play.svg" alt="Play Alias →" width="170" /></a>
 
 </div>
 
